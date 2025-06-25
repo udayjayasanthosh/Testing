@@ -257,7 +257,7 @@ import { Home_page } from './Module/home.js';
 import { createStackNavigator } from '@react-navigation/stack';
 import { Homily } from './Module/homily.js';
 export default function App() {
-  const stack = createStackNavigator();
+  // const stack = createStackNavigator();
   // const top = createMaterialTopTabNavigator();
   // const left = createDrawerNavigator();
   return (
